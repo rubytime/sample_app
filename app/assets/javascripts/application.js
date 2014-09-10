@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require turbolinks
+//= require jquery-fileupload
 //= require_tree .
